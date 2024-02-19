@@ -1,0 +1,1 @@
+Tutorials and coursework for the QMUL module Statistical Modelling 1
